@@ -1,4 +1,6 @@
 # ObfuscatedChess
+
+Code by Oscar Toledo G.
 Oscar Toledo G. javascript chess code: https://nanochess.org/chess4.html
 
 [Deployment](http://www.averychan.site/ObfuscatedChess/)

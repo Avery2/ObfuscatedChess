@@ -5,7 +5,7 @@ Oscar Toledo G. javascript chess code: https://nanochess.org/chess4.html
 
 [Deployment](http://www.averychan.site/ObfuscatedChess/)
 
-This is the entire code in javascript to run a chess game and play against you. It's a chess algorithm AND the graphics.
+This is the entire code in javascript to run a chess game and play against you.
 
 ```javascript
 <script>//(c)2009 Oscar Toledo G.

@@ -7,7 +7,7 @@ Oscar Toledo G. javascript chess code: https://nanochess.org/chess4.html
 
 This is the entire code in javascript to run a chess game and play against you. It's a chess algorithm AND the graphics.
 
-```
+```javascript
 <script>//(c)2009 Oscar Toledo G.
 var B,i,y,u,b,I=[],G=120,x=10,z=15,M=1e4,l=[5,3,4,6,2,4,3,5,1,1,1,1,1,1,1,1,9,9
 ,9,9,9,9,9,9,13,11,12,14,10,12,11,13,0,99,0,306,297,495,846,-1,0,1,2,2,1,0,-1,-
